@@ -17,7 +17,7 @@ var Langs = map[string]string{
 	"12": "Haskell GHC 8.6.3",
 	"60": "Java 11.0.5",
 	"36": "Java 1.8.0_162",
-	"48": "Kotlin 1.3.10",
+	"88": "Kotlin 1.9.21",
 	"19": "OCaml 4.02.1",
 	"3":  "Delphi 7",
 	"4":  "Free Pascal 3.0.2",
